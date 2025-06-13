@@ -100,3 +100,4 @@ C:\UnitTestingDemo\MathLibrary.Tests\obj\Debug\net9.0\refint\MathLibrary.Tests.d
 C:\UnitTestingDemo\MathLibrary.Tests\obj\Debug\net9.0\MathLibrary.Tests.pdb
 C:\UnitTestingDemo\MathLibrary.Tests\obj\Debug\net9.0\MathLibrary.Tests.genruntimeconfig.cache
 C:\UnitTestingDemo\MathLibrary.Tests\obj\Debug\net9.0\ref\MathLibrary.Tests.dll
+C:\UnitTestingDemo\MathLibrary.Tests\obj\Debug\net9.0\MathLibrary.Tests.sourcelink.json
